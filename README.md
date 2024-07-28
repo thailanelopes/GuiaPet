@@ -2,7 +2,7 @@
 
 # Guia Pet Tutors
 
-<img src="imagens/mypet.jpg" alt="Guia Pet Tutors" width="300"/>
+<img src="images/mypet.jpg" alt="Guia Pet Tutors" width="300"/>
 
 </div>
 
