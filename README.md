@@ -1,3 +1,11 @@
+<div align="center">
+
+# Guia Pet Tutors
+
+<img src="imagens/mypet.jpg" alt="Guia Pet Tutors" width="300"/>
+
+</div>
+
 ## Propósito do Guia Pet Tutors
 
 ### Conectando Tutores de Pets com Recursos Essenciais para o Bem-Estar Animal
@@ -35,7 +43,7 @@ Se você é um tutor de pet apaixonado por proporcionar o melhor para seu compan
 
 
 
-# Guia Pet Tutors
+## Guia Pet Tutors
 
 Guia Pet Tutors é um site para tutores de animais de estimação que oferece dicas de produtos e serviços, um guia de emergência e primeiros socorros, e um planejador de atividades e treinamento para pets. Este projeto é construído utilizando a stack MERN (MongoDB, Express, React, Node.js).
 
